@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fitfat/static/css/main.79be4803.css",
-    "main.js": "/fitfat/static/js/main.7c48ec9b.js",
+    "main.js": "/fitfat/static/js/main.7bf4f432.js",
     "index.html": "/fitfat/index.html",
     "main.79be4803.css.map": "/fitfat/static/css/main.79be4803.css.map",
-    "main.7c48ec9b.js.map": "/fitfat/static/js/main.7c48ec9b.js.map"
+    "main.7bf4f432.js.map": "/fitfat/static/js/main.7bf4f432.js.map"
   },
   "entrypoints": [
     "static/css/main.79be4803.css",
-    "static/js/main.7c48ec9b.js"
+    "static/js/main.7bf4f432.js"
   ]
 }
